@@ -1,3 +1,10 @@
+this is a note-web 
+i build this for my personal use 
+
+
+
+
+
 <<<<<<< HEAD
 # React + Vite
 
